@@ -1,0 +1,18 @@
+1_30
+
+while loop
+
+domain
+	set of input that a function might take as argument
+range
+	set of output ...
+
+abstraction
+	detail removal: not "how", just "what" it does
+	generalization: solve related situations
+
+assert statemennt
+	assert r >= 0, "R needs to be poisitive"
+
+HIGHER ORDER FUNCTIONS
+	functions can be passed in functions as arguments (acts like a variable)

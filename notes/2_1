@@ -1,0 +1,10 @@
+2_1
+
+Functions are first class
+
+nested expression - able to access variable in the parents
+
+lambda expression
+	square = lambda x: x * x
+	gives a function
+	def gives the function an intrinsic name, while lambda does not (even if you bind a name to the lambda expression)

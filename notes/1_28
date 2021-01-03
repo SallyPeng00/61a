@@ -1,0 +1,23 @@
+1_28
+
+functions:
+	pure function: just return values
+		eg: abs, pow, ...
+	non-pure functions: have side effects, could also return values
+		eg: print, play_sound, ...
+
+def statement
+	name, formal parameter, body(+ return statement)
+
+call expression: square(2+2)
+	operator: square, operand 2+2, argument: 4
+	*** when you call a function, a new frame is created
+
+environment and names
+	name are evaluated to the value bound to that name in the earliest frame of the current environment
+
+statement, clause, header, suit
+	statement: the whole thing
+	???
+
+false = False, 0, '', None
